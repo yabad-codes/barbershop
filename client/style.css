@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.booking-form {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.booking-list {
+    margin: 20px 0;
+}
+
+.booking-item {
+    padding: 10px;
+    border: 1px solid #eee;
+    margin: 5px 0;
+}
+
+input, button {
+    margin: 5px;
+    padding: 5px;
+}
